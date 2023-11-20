@@ -53,7 +53,7 @@ public class Main {
         System.out.println(differenceWeight1);
         var differenceWeight2 = weight2%weight1;
         System.out.println(differenceWeight2);
-        //Задача 8.1
+        //Задача 8 1
         var workTime = 640;
         var oneWorkerTime = 8;
         var workers = workTime/oneWorkerTime;
